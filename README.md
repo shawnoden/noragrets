@@ -114,7 +114,7 @@ These are the important tools you need:
 * [ ] Profit
 
 Right now, this project has *ZERO* issues. So if you find an issue, don't blame me.
-<br>
+<br><br>
 See the [open issues](https://github.com/shawnoden/noragrets/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
