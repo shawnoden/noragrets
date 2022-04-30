@@ -12,11 +12,11 @@
   <p align="left">
     It was pointed out to me earlier that it has been over a decade since we've seen a new ColdFusion framework. (Thanks, Mr. Cameron.)
     <br><br>
-    [ColdBox](https://www.coldbox.org/) was created in 2006.
+    <a href="https://www.coldbox.org">ColdBox</a> was created in 2006.
     <br>
-    [CFWheels](https://cfwheels.org/) was created in 2009.
+    <a href="https://cfwheels.org">CFWheels</a> was created in 2009.
     <br>
-    [FW/1](https://framework-one.github.io/) was created in 2009.
+    <a href="https://framework-one.github.io">FW/1</a> was created in 2009.
     <br><br>
     We need a new one.
     <br><br>
@@ -114,7 +114,7 @@ These are the important tools you need:
 * [ ] Profit
 
 Right now, this project has *ZERO* issues. So if you find an issue, don't blame me.
-<br><br>
+<br><BR>
 See the [open issues](https://github.com/shawnoden/noragrets/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
