@@ -114,7 +114,7 @@ These are the important tools you need:
 * [ ] Profit
 
 Right now, this project has *ZERO* issues. So if you find an issue, don't blame me.
-<br><BR>
+<br><br>
 See the [open issues](https://github.com/shawnoden/noragrets/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -134,7 +134,7 @@ Feel free to make any suggestions for improvements, or even better, fork this re
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-My only request is that you at least try to find a way to use [`parameterExists()`](https://helpx.adobe.com/coldfusion/cfml-reference/coldfusion-functions/functions-m-r/parameterexists.html). It was deprecated when I began using Allaire's Cold Fusion 4.0 back in 1999 or so, and even though it refuses to die and/or won't actually be killed, it gets no love at all. 
+My only request is that you at least try to find a way to use [`parameterExists()`](https://helpx.adobe.com/coldfusion/cfml-reference/coldfusion-functions/functions-m-r/parameterexists.html). It was deprecated when I began using Allaire's Cold Fusion 4.0 back in 1999 or so, and even though it refuses to die and/or won't actually be killed, it gets no love at all.
 <br>
 **NOTE:* Please don't actually use it. It was deprecated for a reason. But that doesn't mean you can't find some joy in the fact that it's still around.*
 
